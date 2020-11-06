@@ -54,14 +54,13 @@ Eu tenho experiencia de front end developer, através de trabalhos remotos.
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 
-- 🔭 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web
-- 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web
+- 🔭 Estou trabalhando principalmente em desenvolver novas habilidades
+- 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web com a Digital Innovation One
 - 👯 Eu estou procurando colaborar em redes sociais com hacks rápidos
 - 🤔 Estou procurando ajuda para desenvolver habilidades de desenvolvedor web front end
 - 💬 Pergunte-me sobre mercado financeiro, é o assunto que mais tenho conhecimento.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Fale comigo: envie um e-mail para hebersilverio@gmail.com
+
 </details>
 </br>
 
