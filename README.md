@@ -21,5 +21,4 @@ Eu tenho experiencia de front end developer, através de trabalhos remotos.
 - ⚡ Fun fact: ...
 
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-[Linkedin](https://www.linkedin.com/in/hebersilverio/)
+
