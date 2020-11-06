@@ -7,7 +7,13 @@ Eu tenho experiencia de front end developer, através de trabalhos remotos.
 
 </br>
 
-<h2 align="center">You can reach me at :alien:</h2>
+### Linguagens de programação 🌐
+
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="jQuery" width="24">](https://jquery.com/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
+|---|---|
+
+
+<h2 align="center">Me encontre nas seguintes redes sociais: </h2>
 
 <p align="center">
   <a href="https://hebersilverio.github.io/Curriculo/">
