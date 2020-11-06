@@ -22,3 +22,6 @@ Eu tenho experiencia de front end developer, através de trabalhos remotos.
 
 </br>
 
+<h4 align="center">Contagem de visitantes :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{HeberSilverio}/count.svg" alt="HeberSilverio :: Visitor's Count" /></p>
