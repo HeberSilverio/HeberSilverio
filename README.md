@@ -1,16 +1,12 @@
 ## Eu sou Héber Silvério 👋
 Eu tenho experiencia de front end developer, através de trabalhos remotos.
 
-<br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-</br>
 
 ### Linguagens de programação 🌐
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
-|---|---|---|
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) | [<img src="https://img.stackshare.io/service/6727/css.png" alt="CSS" width="24">](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
+|---|---|---|---
 
 ### Minhas ferramentas 🛠️
 
@@ -66,6 +62,11 @@ Eu tenho experiencia de front end developer, através de trabalhos remotos.
 - 📫 Fale comigo: envie um e-mail para hebersilverio@gmail.com
 
 </details>
+</br>
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
 </br>
 
 
