@@ -1,17 +1,13 @@
-<h3 align="center"> Eu sou Héber Silvério 👋</h3>
-<p align="center">Eu tenho experiencia de front end developer.</p>
+<h3 align="center"> Olá! Eu sou Héber Silvério 👋</h3>
+<p align="center">Estou sendo envolvido em pesquisas e buscando aperfeiçoar e adquirir novas habilidades.</p>
+<p align="center">O que mais me cativa é desafios e problemas.</p>
 
 
 
-<h3 align="center"> Minhas Linguagens de programação 🌐</h3>
+<h3 align="center"> Linguagens e Ferramentas que mais utilizo 🛠️ </h3>
 
-|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) | [<img src="https://img.stackshare.io/service/6727/css.png" alt="CSS" width="24">](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) 
-|---|---|---|---|
-
-<h3 align="center"> Ferramentas que mais utilizo 🛠️ </h3>
-
-|  [<img src="https://img.stackshare.io/service/250/logo.png" alt="WordPress" width="24">](https://br.wordpress.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://img.stackshare.io/service/6727/css.png" alt="CSS" width="24">](https://www.w3schools.com/css/) | [<img src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" alt="TypeScript" width="24">](https://www.typescriptlang.org/) | [<img src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" alt="Visual Studio Code" width="24">](https://code.visualstudio.com/)| [<img src="https://img.stackshare.io/service/27/sBsvBbjY.png" alt="GitHub" width="24">](https://github.com/)
-|---|---|---|---|---|---|---|---|---|
+|  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) | [<img src="https://img.stackshare.io/service/6727/css.png" alt="CSS" width="24">](https://www.w3schools.com/css/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="24">](https://getbootstrap.com/) |  [<img src="https://img.stackshare.io/service/250/logo.png" alt="WordPress" width="24">](https://br.wordpress.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" width="24">](https://www.mysql.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/)  | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/)  |  [<img src="https://img.stackshare.io/service/6727/css.png" alt="CSS" width="24">](https://www.w3schools.com/css/) | [<img src="https://img.stackshare.io/service/1612/bynNY5dJ.jpg" alt="TypeScript" width="24">](https://www.typescriptlang.org/) | [<img src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" alt="Visual Studio Code" width="24">](https://code.visualstudio.com/)| [<img src="https://img.stackshare.io/service/27/sBsvBbjY.png" alt="GitHub" width="24">](https://github.com/)
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 
 <h4 align="center">Linguagem que mais uso :tongue:</h4>
 
@@ -54,10 +50,9 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 
-- 🔭 Estou trabalhando principalmente em desenvolver novas habilidades
+- 🔭 Estou em transição de carreira :) Estudando na Digital Innovation One e na Rocketseat
 - 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web com a Digital Innovation One
-- 👯 Eu estou procurando colaborar em redes sociais com hacks rápidos
-- 🤔 Estou procurando ajuda para desenvolver habilidades de desenvolvedor web front end
+- 👯 Eu estou buscando colaborar eom projetos na parte Front-End
 - 💬 Pergunte-me sobre mercado financeiro, é o assunto que mais tenho conhecimento.
 - 📫 Fale comigo: envie um e-mail para hebersilverio@gmail.com
 
