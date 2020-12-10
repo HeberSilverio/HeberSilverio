@@ -1,6 +1,6 @@
 <h3 align="center"> Olá! Eu sou Héber Silvério 👋</h3>
 <p align="center">Estou sempre envolvido em pesquisas e buscando aperfeiçoar e adquirir novas habilidades.</p>
-<p align="center">O que mais me cativa é desafios e problemas.</p>
+<p align="center">O que mais me cativa é desafios.</p>
 
 
 
