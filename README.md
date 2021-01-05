@@ -50,9 +50,9 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 
-- 🔭 Estou em transição de carreira :) Estudando na Digital Innovation One e na Rocketseat
-- 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web com a Digital Innovation One
-- 👯 Eu estou buscando colaborar com projetos na parte Front-End
+- 🔭 Estou em transição de carreira :) Estudando na Digital Innovation One.
+- 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web com a Digital Innovation One.
+- 👯 Eu estou buscando colaborar com projetos na parte Front-End.
 - 💬 Pergunte-me sobre mercado financeiro, é o assunto que mais tenho conhecimento.
 - 📫 Fale comigo: envie um e-mail para hebersilverio@gmail.com
 
