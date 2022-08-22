@@ -6,7 +6,7 @@
 
 <h3 align="center"> Ferramentas que mais utilizo 🛠️ </h3>
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Heber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Heber-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Heber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="Heber-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
 </div>
 
-<h4 align="center">Linguagem que mais uso :tongue:</h4>
+<h4 align="center">Linguagem que mais utilizo :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact" alt="HeberSilverio :: Top Langs" /></p>
 
@@ -61,8 +61,8 @@
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 
-- 🔭 Estou em transição de carreira :) Estudando na Digital Innovation One.
-- 🌱 Atualmente, estou aprendendo o desenvolvimento de aplicativos Web com a Digital Innovation One.
+- 🔭 Estou programando desde 2017 com experiência no desenvolvimento Front-End.
+- 🌱 Atualmente, estou aprofundando os estudos, buscando me tornar desenvolvedor Full Stack.
 - 👯 Eu estou buscando colaborar com projetos na parte Front-End.
 - 💬 Pergunte-me sobre mercado financeiro, é o assunto que mais tenho conhecimento.
 - 📫 Fale comigo: envie um e-mail para hebersilverio@gmail.com
