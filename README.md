@@ -4,9 +4,22 @@
 
 
 
-<h3 align="center"> Linguagens e Ferramentas que mais utilizo 🛠️ </h3>
+<h3 align="center"> Ferramentas que mais utilizo 🛠️ </h3>
 
-|  [<img src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" alt="PHP" width="24">](https://www.php.net/manual/pt_BR/language.types.php) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [<img src="https://img.stackshare.io/service/2538/kEpgHiC9.png" alt="HTML5" width="24">](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) | [<img src="https://img.stackshare.io/service/6727/css.png" alt="CSS" width="24">](https://www.w3schools.com/css/) | [<img src="https://img.stackshare.io/service/250/logo.png" alt="WordPress" width="24">](https://br.wordpress.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="24">](https://git-scm.com/) | [<img src="https://github.com/HeberSilverio/30diasDeJavaScript-HTML-CSS/blob/main/Dia%2039/Octocat.png" alt="GitHub" width="24">](https://github.com/)| [<img src="https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png" alt="vscode" width="24">](https://code.visualstudio.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" width="24">](https://ubuntu.com/) | ------ | ------ | ------ | ------ |------ | ------ | 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Heber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Heber-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Heber-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Heber-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Heber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Heber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Heber-Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
+  <img align="center" alt="Heber-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Heber-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Heber-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Heber-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
+</div>
+
 <h4 align="center">Linguagem que mais uso :tongue:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact" alt="HeberSilverio :: Top Langs" /></p>
