@@ -21,7 +21,6 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -30,9 +29,10 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-FFC500?style=for-the-badge&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC644?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
@@ -68,13 +68,13 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
 ## 👉 Conecte-se comigo: 👈
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/hebersilverio/">
+  <a href="https://www.linkedin.com/in/hebersilverio/" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://hebersilverio.github.io/Curriculo/">
+  <a href="https://hebersilverio.github.io/Curriculo/" target=”_blank”>
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Héber Silvério's DEV Profile" height="30" width="30">
   </a>
-  <a href="https://stackshare.io/hebersilverio">
+  <a href="https://stackshare.io/hebersilverio" target=”_blank”>
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Héber Silvério's StackShare Profile" height="30" width="30">
   </a>
 </p>
