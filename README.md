@@ -57,12 +57,17 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
 ## 📊 Status sobre o que eu ando fazendo por aqui 📊
 
 <div align = "center">
- 
-![Status hebersilverio](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hebersilverio&theme=nord_dark) 
- 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=hebersilverio&theme=nord&column=6&row=1&margin-w=10)
- 
 </div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact" alt="HeberSilverio :: Top Langs" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"></td>
+  </tr>
+</table>
+
+ 
+
 
 ## 🦖 Minhas bagdes no Holopin 🦖
 
