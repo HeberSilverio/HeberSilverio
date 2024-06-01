@@ -57,7 +57,7 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
 <div align = "center">
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact&cache_buster=1" alt="HeberSilverio :: Top Langs" style="height: 195px;"/>
   <img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HeberSilverio's Github Stats" style="height: 195px; width: 90%;"/>
 </p>
@@ -71,10 +71,10 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
       <img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HeberSilverio's Github Stats" style="height: 195px; width: 90%;"/>
     </td>
   </tr>
-</table>
+</table> -->
 
 ![HeberSilverio :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact&cache_buster=1)
-![HeberSilverio's Github Stats](https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+<!-- ![HeberSilverio's Github Stats](https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40) -->
 
 ## 👉 Entre em contato comigo:
 
