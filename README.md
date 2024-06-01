@@ -73,6 +73,9 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
   </tr>
 </table>
 
+![HeberSilverio :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact&cache_buster=1)
+![HeberSilverio's Github Stats](https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+
 ## 👉 Entre em contato comigo:
 
 <p align="left" style="display: flex; justify-content: center; gap: 10px;">
