@@ -59,9 +59,19 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact&cache_buster=1" alt="HeberSilverio :: Top Langs" style="height: 195px;"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HeberSilverio's Github Stats" style="height: 195px;"/> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HeberSilverio's Github Stats" style="height: 195px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HeberSilverio's Github Stats" style="height: 195px; width: 90%;"/>
 </p>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeberSilverio&langs_count=10&theme=tokyonight&layout=compact&cache_buster=1" alt="HeberSilverio :: Top Langs" style="height: 195px;"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=HeberSilverio&hide=contribs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="HeberSilverio's Github Stats" style="height: 195px; width: 90%;"/>
+    </td>
+  </tr>
+</table>
 
 ## 👉 Entre em contato comigo:
 
@@ -80,15 +90,5 @@ Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End 
    </a>
 </p>
 
-<!-- <p align="left" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/hebersilverio/" target=”_blank”>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://hebersilverio.github.io/Curriculo/" target=”_blank”>
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Héber Silvério's DEV Profile" height="30" width="30">
-  </a>
-  <a href="https://stackshare.io/hebersilverio" target=”_blank”>
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Héber Silvério's StackShare Profile" height="30" width="30">
-  </a>
-</p> -->
+
 
