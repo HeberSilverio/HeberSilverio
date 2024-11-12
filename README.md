@@ -2,7 +2,9 @@
 
 ## 👨🏼‍💻 Quem sou eu 👨🏼‍💻
 
-Olá! Meu nome é Héber. Eu sou Desenvolvedor de RPA e desenvolvedor Front End na [Earq](https://earqconsultoria.com.br/), escritor, esposo e pai dedicado. Especialista em automação e design, com paixão por criar e inovar. E aqui no github sou criador de repositórios com projetos legais.
+  Olá! Meu nome é Héber. Tenho 6 anos de experiência e atualmente, trabalho como Desenvolvedor de Software, Analista de Sistemas, e com desenvolvimento e arquitetura e documentação de RPA AA360.
+  Utilizo as tecnologias: Angular, TypeScript | JavaScript, Microsoft SQL Server (SQL), Mongodb, Google Cloud, Azure, Automation Anywhere, Uipath e outras ferramentas.
+  Desenvolvi um template de Bot para loops transacionais que facilita monitorias e manutenções com relatórios automáticos via e-mail e Telegram.
 
 ## 🗂️ O que você encontra no meu Github 🗂️
 
