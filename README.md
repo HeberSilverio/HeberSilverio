@@ -2,7 +2,7 @@
 
 ## 👨🏼‍💻 Quem sou eu 👨🏼‍💻
 
-  Olá! Meu nome é Héber. Tenho 6 anos de experiência e atualmente, trabalho como <b>Desenvolvedor de Software</b>, <b>Analista de Sistemas</b>, e com <b>desenvolvimento e arquitetura e documentação de RPA AA360</b>.
+  Olá! Meu nome é Héber. Tenho 8 anos de experiência e atualmente, trabalho como <b>Desenvolvedor de Software</b>, <b>Analista de Sistemas</b>, e com <b>desenvolvimento e arquitetura e documentação de RPA AA360</b>.
   Utilizo as tecnologias: <b>Angular, TypeScript | JavaScript, Microsoft SQL Server (SQL), Mongodb, Google Cloud, Azure, Automation Anywhere, Uipath</b> e outras ferramentas.
   Desenvolvi um template de Bot para loops transacionais que facilita monitorias e manutenções com relatórios automáticos via e-mail e Telegram.
 
